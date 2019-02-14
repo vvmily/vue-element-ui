@@ -1,2 +1,2 @@
 # vue-elementUI
-vue和elementUI搭建项目
+搭建说明
